@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hooverplumbingco.com/sitemap.xml
